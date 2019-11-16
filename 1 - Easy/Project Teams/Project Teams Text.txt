@@ -1,0 +1,17 @@
+There are N students in a class and teacher want to divide these students
+into some groups. teacher told that groups consisting of two or less students
+not allowed, so teacher want to have as many groups as possible.
+
+Divide the students so that the number of groups consisting of three or more students
+is maximized.
+
+INPUT: Single integer N
+
+OUTPUT: Maximum number of groups can be formed.
+
+CONSTRAINTS: 
+	1<=N<100000
+
+SAMPLE INPUT: 6
+
+SAMPLE OUTPUT: 2
