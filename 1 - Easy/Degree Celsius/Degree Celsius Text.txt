@@ -1,0 +1,20 @@
+Tom is a scientist. He uses huge machines for complex calculations. 
+There is a problem, the machines takes input as Fahrenheit and Tom has
+the temperatures in Degree Celsius. As he is busy with his work, he asks your
+help to convert Degree Celsius to Fahrenheit.
+
+INPUT:
+	The first and only line of the input consists of a single integer T
+	denoting temperature in Degree Celsius.
+
+OUTPUT:
+	Print an integer denoting temperature in Fahrenheit.
+
+CONSTRAINTS:
+	0<=T<=1000
+
+SAMPLE INPUT:
+	100
+
+SAMPLE OUTPUT:
+	212
