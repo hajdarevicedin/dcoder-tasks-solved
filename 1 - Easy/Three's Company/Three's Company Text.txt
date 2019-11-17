@@ -1,0 +1,20 @@
+This problem requires you to create an output string from input string
+such that for every character in input string, there are three same characters
+in output string.
+
+INPUT:
+	First line contains N, the number of letters in the string.
+	The next line contains the string.
+
+OUTPUT:
+	Print the output_string.
+
+CONSTRAINTS:
+	1<=N<=20
+
+SAMPLE INPUT:
+	5
+	Hello
+
+SAMPLE OUTPUT:
+	HHHeeellllllooo
